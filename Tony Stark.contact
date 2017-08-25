@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
+	<c:CreationDate>2017-08-25T15:58:16Z</c:CreationDate><c:Extended xsi:nil="true"/>
+	<c:ContactIDCollection><c:ContactID c:ElementID="c68ec1d2-b33a-4876-89fb-a6e09c228715"><c:Value>71193b94-c449-4f9d-9331-4c21a6096e9a</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="713dfed4-7435-47a4-9ce0-b58add6fa190"><c:Title>Project Manager</c:Title><c:FormattedName>Tony Stark</c:FormattedName><c:FamilyName>Stark</c:FamilyName><c:GivenName>Tony</c:GivenName></c:Name></c:NameCollection><c:PhotoCollection><c:Photo c:ElementID="723a2d7d-f558-42a9-9161-6f2d72e15213"><c:LabelCollection><c:Label>UserTile</c:Label></c:LabelCollection></c:Photo></c:PhotoCollection></c:contact>
