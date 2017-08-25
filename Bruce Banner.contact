@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
+	<c:CreationDate>2017-08-25T16:00:20Z</c:CreationDate><c:Extended xsi:nil="true"/>
+	<c:ContactIDCollection><c:ContactID c:ElementID="c5b2c638-36a5-4b84-8b76-9701c1b1f906"><c:Value>ec4e9634-887f-4b5e-8594-0b5146e96ea4</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="d749e4dd-5f7a-4180-ae8b-76c9aac26aa7"><c:Title>Assistant Manager</c:Title><c:FormattedName>Bruce Banner</c:FormattedName><c:FamilyName>Banner</c:FamilyName><c:GivenName>Bruce</c:GivenName></c:Name></c:NameCollection><c:PhotoCollection><c:Photo c:ElementID="2571fc48-53dd-48ad-8959-5de9dba480ed"><c:LabelCollection><c:Label>UserTile</c:Label></c:LabelCollection></c:Photo></c:PhotoCollection></c:contact>
