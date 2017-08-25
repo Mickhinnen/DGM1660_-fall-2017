@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
+	<c:CreationDate>2017-08-25T16:16:10Z</c:CreationDate><c:Extended xsi:nil="true"/>
+	<c:ContactIDCollection><c:ContactID c:ElementID="074608e8-b690-4efd-90d3-2d7eb36d851a"><c:Value>d8276915-a54e-42a2-89ef-af4b71ae6d5e</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="7c1a2220-567e-4d7b-a37c-1b9098a9f8c4"><c:Title>security team, project advisor</c:Title><c:FormattedName>Clint Barton</c:FormattedName><c:FamilyName>Barton</c:FamilyName><c:GivenName>Clint</c:GivenName></c:Name></c:NameCollection><c:PhotoCollection><c:Photo c:ElementID="435171f2-eb30-4ebc-aa84-5525af770527"><c:LabelCollection><c:Label>UserTile</c:Label></c:LabelCollection></c:Photo></c:PhotoCollection></c:contact>
