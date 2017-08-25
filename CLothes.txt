@@ -1,0 +1,6 @@
+t-shirts
+pants
+dresses
+skirts
+shoes
+socks
