@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
+	<c:CreationDate>2017-08-25T16:13:51Z</c:CreationDate><c:Extended xsi:nil="true"/>
+	<c:ContactIDCollection><c:ContactID c:ElementID="7d0bb1e4-3820-4a0c-8de8-7e6085622a86"><c:Value>1a5dfed3-3ef8-4f54-b6f5-d39e23a69f9e</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="37bf0723-488c-47a3-be3f-78d40a52f91e"><c:Title>Head of security</c:Title><c:FormattedName>Natasha Romanoff</c:FormattedName><c:FamilyName>Romanoff</c:FamilyName><c:GivenName>Natasha</c:GivenName></c:Name></c:NameCollection><c:PhotoCollection><c:Photo c:ElementID="eee4afbb-c2e4-4520-a1e6-72c99dbc7271"><c:LabelCollection><c:Label>UserTile</c:Label></c:LabelCollection></c:Photo></c:PhotoCollection></c:contact>
