@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
+	<c:CreationDate>2017-08-25T16:12:03Z</c:CreationDate><c:Extended xsi:nil="true"/>
+	<c:ContactIDCollection><c:ContactID c:ElementID="831539c9-71ca-47ec-a2e2-6b6a773ad658"><c:Value>b4b9f13e-6020-4e4c-8ead-765749656903</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="fab21502-aea4-4b3e-9cc5-74232aeccf06"><c:Title>Foreign affairs rep.</c:Title><c:FormattedName>Thor Odinson</c:FormattedName><c:FamilyName>Odinson</c:FamilyName><c:GivenName>Thor</c:GivenName></c:Name></c:NameCollection><c:PhotoCollection><c:Photo c:ElementID="18b275d7-d26a-407a-85a0-e372c87299ac"><c:LabelCollection><c:Label>UserTile</c:Label></c:LabelCollection></c:Photo></c:PhotoCollection></c:contact>
