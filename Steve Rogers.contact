@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
+	<c:CreationDate>2017-08-25T16:02:36Z</c:CreationDate><c:Extended xsi:nil="true"/>
+	<c:ContactIDCollection><c:ContactID c:ElementID="a55e2412-4025-467a-84d9-4d38c0b345f0"><c:Value>41696131-552c-4c1d-bb83-ddc467064232</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="55182c8a-04ef-4900-ad6a-ee7949dddd8e"><c:Title>Project Head</c:Title><c:FormattedName>Steve Rogers</c:FormattedName><c:FamilyName>Rogers</c:FamilyName><c:GivenName>Steve</c:GivenName></c:Name></c:NameCollection><c:PhotoCollection><c:Photo c:ElementID="5ddd9233-2fe3-4f41-8f66-c34176e1fe30"><c:LabelCollection><c:Label>UserTile</c:Label></c:LabelCollection></c:Photo></c:PhotoCollection></c:contact>
