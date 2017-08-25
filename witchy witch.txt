@@ -1,0 +1,6 @@
+magic
+wand
+potions
+spells
+divination
+familiars
