@@ -1,6 +1,6 @@
 //Maya ASCII 2017ff05 scene
 //Name: PropStaff.ma
-//Last modified: Thu, Sep 07, 2017 05:16:52 PM
+//Last modified: Thu, Sep 07, 2017 05:17:38 PM
 //Codeset: 1252
 requires maya "2017ff05";
 currentUnit -l centimeter -a degree -t film;
@@ -68,7 +68,7 @@ createNode camera -s -n "sideShape" -p "side";
 	setAttr -k off ".v";
 	setAttr ".rnd" no;
 	setAttr ".coi" 1000.1;
-	setAttr ".ow" 41.501503074930774;
+	setAttr ".ow" 34.365601282145548;
 	setAttr ".imn" -type "string" "side";
 	setAttr ".den" -type "string" "side_depth";
 	setAttr ".man" -type "string" "side_mask";
